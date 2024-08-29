@@ -2,7 +2,7 @@
 // 8.28.2024
 // Cracking the Coding Interview
 // Chapter 1: Arrays and Strings
-// Problem 1.2: check if one string is a permutation
+// Problem 1.3: check if one string is a permutation
 // 				of another string
 
 import java.util.Scanner;
